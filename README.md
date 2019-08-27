@@ -2,7 +2,7 @@
 
 * npm install
 * npm run build
-* npm run start
+* npm start
 
 
 open localhost:9000
